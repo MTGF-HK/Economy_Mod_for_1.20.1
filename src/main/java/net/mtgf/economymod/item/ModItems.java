@@ -44,7 +44,10 @@ public class ModItems {
 
 
     // ITEM 추가하기 - 바닐라아이템
-    // ItemStep 3. ITEM_NAME과 "item_name" 쓰기 --> 이후 main.java.net.mtgf.economymod.EconomyMod.java로 가기
+    // Silver Ore
+    public static final RegistryObject<Item> SILVER_ORE = ITEMS.register("silver_ore",
+            () -> new Item(new Item.Properties()));
+    // Silver Ingot
     public static final RegistryObject<Item> SILVER_INGOT = ITEMS.register("silver_ingot",
             () -> new Item(new Item.Properties()));
 

@@ -1,0 +1,16 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "XXX",
+        "XYX",
+        "XXX"
+        ],
+    "key":{
+        "X":{"item":"minecraft:rotten_flesh"},
+        "Y":{"item":"minecraft:coal"}
+    },
+    "result":{
+        "item":"minecraft:cooked_beef",
+        "count":1
+    }
+}

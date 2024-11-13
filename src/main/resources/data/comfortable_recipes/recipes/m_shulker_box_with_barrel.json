@@ -1,0 +1,17 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "XXX",
+        "YZY",
+        "XXX"
+        ],
+    "key":{
+        "X":{"item":"minecraft:leather"},
+        "Y":{"item":"minecraft:string"},
+        "Z":{"item":"minecraft:barrel"}
+    },
+    "result":{
+        "item":"minecraft:shulker_box",
+        "count":1
+    }
+}

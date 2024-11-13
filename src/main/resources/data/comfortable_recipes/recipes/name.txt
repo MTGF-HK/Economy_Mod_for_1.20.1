@@ -1,0 +1,3 @@
+d = disassembly
+e = exchange
+m = make (new)

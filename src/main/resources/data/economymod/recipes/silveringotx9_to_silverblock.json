@@ -1,0 +1,18 @@
+{
+    "type":"minecraft:crafting_shapeless",
+    "ingredients":[
+        {"item":"economymod:silver_ingot"},
+        {"item":"economymod:silver_ingot"},
+        {"item":"economymod:silver_ingot"},
+        {"item":"economymod:silver_ingot"},
+        {"item":"economymod:silver_ingot"},
+        {"item":"economymod:silver_ingot"},
+        {"item":"economymod:silver_ingot"},
+        {"item":"economymod:silver_ingot"},
+        {"item":"economymod:silver_ingot"}
+    ],
+    "result":{
+        "item":"economymod:silver_block",
+        "count": 1
+    }
+}

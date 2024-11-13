@@ -72,6 +72,7 @@ public class EconomyMod {
             event.accept(ModItems.WON_100); // 100 Won
 
             // 크리탭 - 재료 탭으로 (탭 변경 안함 --> ModCreativeModTabs.java에 추가 안함
+            event.accept(ModItems.SILVER_ORE); // Silver Ore
             event.accept(ModItems.SILVER_INGOT); // Silver Ingot
             event.accept(ModBlocks.SILVER_BLOCK); // Silver Block
             event.accept(ModBlocks.SILVER_ORE_BLOCK); // Silver Block

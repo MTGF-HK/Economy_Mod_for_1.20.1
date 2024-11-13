@@ -1,0 +1,13 @@
+{
+    "type":"minecraft:crafting_shapeless",
+    "ingredients":[
+        {"item":"minecraft:charcoal"},
+        {"item":"minecraft:stick"},
+        {"item":"minecraft:charcoal"},
+        {"item":"minecraft:stick"}
+    ],
+    "result":{
+        "item":"minecraft:soul_torch",
+        "count":8
+    }
+}

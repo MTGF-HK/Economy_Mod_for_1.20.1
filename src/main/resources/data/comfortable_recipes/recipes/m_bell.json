@@ -1,0 +1,16 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "XXX",
+        "YYY",
+        "Y Y"
+        ],
+    "key":{
+        "X":{"item":"minecraft:stick"},
+        "Y":{"item":"minecraft:gold_ingot"}
+    },
+    "result":{
+        "item":"minecraft:bell",
+        "count":1
+    }
+}
