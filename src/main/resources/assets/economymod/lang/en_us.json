@@ -1,0 +1,16 @@
+{
+  "item.economymod.won_1m": "1,000,000 Won",
+  "item.economymod.won_100k": "100,000 Won",
+  "item.economymod.won_50k": "50,000 Won",
+  "item.economymod.won_10k": "10,000 Won",
+  "item.economymod.won_5k": "5,000 Won",
+  "item.economymod.won_1k": "1,000 Won",
+  "item.economymod.won_500": "500 Won",
+  "item.economymod.won_100": "100 Won",
+
+  "item.economymod.silver_ingot": "Silver Ingot",
+  "block.economymod.silver_ore_block": "Silver Ore Block",
+  "block.economymod.silver_block": "Silver Block",
+
+  "creativetab.money_tab": "Money Tab"
+}

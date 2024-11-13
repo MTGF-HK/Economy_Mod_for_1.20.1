@@ -1,0 +1,16 @@
+{
+  "item.economymod.won_1m": "1,000,000 원",
+  "item.economymod.won_100k": "100,000 원",
+  "item.economymod.won_50k": "50,000 원",
+  "item.economymod.won_10k": "10,000 원",
+  "item.economymod.won_5k": "5,000 원",
+  "item.economymod.won_1k": "1,000 원",
+  "item.economymod.won_500": "500 원",
+  "item.economymod.won_100": "100 원",
+
+  "item.economymod.silver_ingot": "은 주괴",
+  "block.economymod.silver_ore_bock": "은 원석 블록",
+  "block.economymod.silver_bock": "은 블록",
+
+  "creativetab.money_tab": "Money Tab"
+}

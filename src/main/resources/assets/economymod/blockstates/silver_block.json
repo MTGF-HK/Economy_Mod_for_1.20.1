@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "economymod:block/silver_block"
+    }
+  }
+}
