@@ -62,6 +62,7 @@ public class EconomyMod {
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
         if(event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
             event.accept(ModItems.WON_1M); // 1,000,000 Won
+            event.accept(ModItems.WON_500K); // 500,000 Won
             event.accept(ModItems.WON_100K); // 100,000 Won
             event.accept(ModItems.WON_50K); // 50,000 Won
             event.accept(ModItems.WON_10K); // 10,000 Won

@@ -17,6 +17,9 @@ public class ModItems {
     // 1,000,000 Won
     public static final RegistryObject<Item> WON_1M = ITEMS.register("won_1m",
             () -> new Item(new Item.Properties()));
+    // 500,000 Won
+    public static final RegistryObject<Item> WON_500K = ITEMS.register("won_500k",
+            () -> new Item(new Item.Properties()));
     // 100,000 Won
     public static final RegistryObject<Item> WON_100K = ITEMS.register("won_100k",
             () -> new Item(new Item.Properties()));

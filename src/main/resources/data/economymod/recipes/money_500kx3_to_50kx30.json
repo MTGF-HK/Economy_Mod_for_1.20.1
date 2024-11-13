@@ -1,0 +1,12 @@
+{
+    "type":"minecraft:crafting_shapeless",
+    "ingredients":[
+        {"item":"economymod:won_500k"},
+        {"item":"economymod:won_500k"},
+        {"item":"economymod:won_500k"}
+    ],
+    "result":{
+        "item":"economymod:won_50k",
+        "count": 30
+    }
+}

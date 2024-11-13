@@ -21,6 +21,7 @@ public class ModCreativeModTabs {
                     .displayItems((itemDisplayParameters, output) -> {
                         // 여기에 아이템 추가
                         output.accept(ModItems.WON_1M.get()); // 1,000,000원
+                        output.accept(ModItems.WON_500K.get()); // 500,000원
                         output.accept(ModItems.WON_100K.get()); // 100,000원
                         output.accept(ModItems.WON_50K.get()); // 50,000원
                         output.accept(ModItems.WON_10K.get()); // 10,000원
