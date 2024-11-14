@@ -1,0 +1,18 @@
+{
+    "type":"minecraft:crafting_shapeless",
+    "ingredients":[
+        {"item":"economymod:ruby"},
+        {"item":"economymod:ruby"},
+        {"item":"economymod:ruby"},
+        {"item":"economymod:ruby"},
+        {"item":"economymod:ruby"},
+        {"item":"economymod:ruby"},
+        {"item":"economymod:ruby"},
+        {"item":"economymod:ruby"},
+        {"item":"economymod:ruby"}
+    ],
+    "result":{
+        "item":"economymod:ruby_block",
+        "count": 1
+    }
+}

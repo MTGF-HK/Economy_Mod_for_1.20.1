@@ -1,0 +1,17 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "XZX",
+        "XXX",
+        "XYX"
+        ],
+    "key":{
+        "X":{"item":"minecraft:rail"},
+        "Y":{"item":"minecraft:redstone"},
+        "Z":{"item":"minecraft:gold_ingot"}
+    },
+    "result":{
+        "item":"minecraft:powered_rail",
+        "count":7
+    }
+}

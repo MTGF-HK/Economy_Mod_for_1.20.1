@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "economymod:block/ruby_block"
+    }
+  }
+}

@@ -43,7 +43,11 @@ public class ModItems {
             () -> new Item(new Item.Properties()));
 
 
-    // ITEM 추가하기 - 바닐라아이템
+    // ITEM 추가하기 - 바닐라탭 아이템
+    // Ruby Ore
+    public static final RegistryObject<Item> RUBY = ITEMS.register("ruby",
+            () -> new Item(new Item.Properties()));
+
     // Silver Ore
     public static final RegistryObject<Item> SILVER_ORE = ITEMS.register("silver_ore",
             () -> new Item(new Item.Properties()));

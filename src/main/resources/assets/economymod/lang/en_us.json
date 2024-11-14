@@ -9,6 +9,10 @@
   "item.economymod.won_500": "500 Won",
   "item.economymod.won_100": "100 Won",
 
+  "item.economymod.ruby": "Ruby",
+  "block.economymod.ruby_ore_block": "Ruby Ore Block",
+  "block.economymod.ruby_block": "Ruby Block",
+
   "item.economymod.silver_ore": "Silver Ore",
   "item.economymod.silver_ingot": "Silver Ingot",
   "block.economymod.silver_ore_block": "Silver Ore Block",
